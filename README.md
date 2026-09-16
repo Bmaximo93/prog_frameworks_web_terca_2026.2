@@ -11,13 +11,13 @@ Para executar o projeto em sua máquina, siga os passos abaixo.
 Clone este repositório utilizando o Git:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Bmaximo93/prog_frameworks_web_terca_2026.2.git
 ```
 
 Em seguida, entre na pasta do projeto:
 
 ```bash
-cd NOME_DO_PROJETO
+cd prog_frameworks_web_terca_2026.2
 ```
 
 ### 2. Instalar as dependências
